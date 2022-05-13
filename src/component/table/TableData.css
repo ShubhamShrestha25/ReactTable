@@ -1,0 +1,8 @@
+.tableData {
+  margin: 50px 10px;
+}
+
+.tableImg {
+  width: 80px;
+  object-fit: cover;
+}
